@@ -11,7 +11,7 @@
 * Clonar el repositorio:
   git clone git@github.com:EduardoIDiaz2000/Popularity-of-Countries.git
 
-###3. Crear el entorno con Conda/Mamba
+### 3. Crear el entorno con Conda/Mamba
 * Instalar el entorno virtual desde el archivo environment.yml
 `-`En el caso de usar conda (conda env create -f environment.yml)
 `-`En el cado de usar mamba (mamba env create -f environment.yml)
